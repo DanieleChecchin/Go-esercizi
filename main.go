@@ -2,5 +2,6 @@ package main
 
 func main() {
 	// sayHello()
-	sum()
+	// sum()
+	celsiusToFahrenheit()
 }
