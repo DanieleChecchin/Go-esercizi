@@ -9,5 +9,6 @@ func main() {
 	// checkNumber()
 	// oneToTen()
 	// sumOfNumber()
-	multiplicationTable()
+	// multiplicationTable()
+	insertFiveNumbers()
 }
