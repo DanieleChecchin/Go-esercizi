@@ -7,5 +7,6 @@ func main() {
 	// highestNumber()
 	// canDrive()
 	// checkNumber()
-	oneToTen()
+	// oneToTen()
+	sumOfNumber()
 }
