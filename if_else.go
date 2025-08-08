@@ -37,3 +37,20 @@ func canDrive() {
 		fmt.Println("You can't drive yet")
 	}
 }
+
+// Chiedi un numero e stampa se è positivo, negativo o zero.
+
+func checkNumber() {
+	var number int
+
+	fmt.Println("Enter a number:")
+	fmt.Scanln(&number)
+
+	if number > 0 {
+		fmt.Printf("The number %v in positive \n", number)
+	} else if number < 0 {
+		fmt.Printf("The number %v is negative \n", number)
+	} else {
+		fmt.Printf("The number %v is zero \n", number)
+	}
+}
