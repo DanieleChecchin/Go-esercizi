@@ -10,5 +10,6 @@ func main() {
 	// oneToTen()
 	// sumOfNumber()
 	// multiplicationTable()
-	insertFiveNumbers()
+	// insertFiveNumbers()
+	findMinMax()
 }
