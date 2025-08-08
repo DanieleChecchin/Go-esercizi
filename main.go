@@ -8,5 +8,6 @@ func main() {
 	// canDrive()
 	// checkNumber()
 	// oneToTen()
-	sumOfNumber()
+	// sumOfNumber()
+	multiplicationTable()
 }
