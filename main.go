@@ -6,5 +6,6 @@ func main() {
 	// celsiusToFahrenheit()
 	// highestNumber()
 	// canDrive()
-	checkNumber()
+	// checkNumber()
+	oneToTen()
 }
