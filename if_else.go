@@ -22,3 +22,18 @@ func highestNumber() {
 	}
 
 }
+
+// Chiedi l’età all’utente. Se ha 18 anni o più, scrivi "Puoi guidare", altrimenti "Non puoi guidare".
+
+func canDrive() {
+	var age int
+
+	fmt.Println("How old are you?")
+	fmt.Scanln(&age)
+
+	if age >= 18 {
+		fmt.Println("You can drive")
+	} else {
+		fmt.Println("You can't drive yet")
+	}
+}

@@ -4,5 +4,6 @@ func main() {
 	// sayHello()
 	// sum()
 	// celsiusToFahrenheit()
-	highestNumber()
+	// highestNumber()
+	canDrive()
 }
