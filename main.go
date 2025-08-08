@@ -3,5 +3,6 @@ package main
 func main() {
 	// sayHello()
 	// sum()
-	celsiusToFahrenheit()
+	// celsiusToFahrenheit()
+	highestNumber()
 }
