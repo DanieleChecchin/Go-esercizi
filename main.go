@@ -11,5 +11,6 @@ func main() {
 	// sumOfNumber()
 	// multiplicationTable()
 	// insertFiveNumbers()
-	findMinMax()
+	// findMinMax()
+	fabri()
 }
